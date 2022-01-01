@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  bottom: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+._ContentRSWP {
+  background-color: rgb(81, 102, 91);
+}
+/* 
+.rswp__toggle{
+  color: rgb(73 245 142);
+}
+.rswp__toggle {
+  color: red;
+}
+
+.__1d63smy > button {
+  color: rgb(73 245 142);
+}
+
+.__1k6b4a3 > button {
+  color: rgb(73 245 142);
+}
+
+.__1d63smy > div {
+  background-color: rgb(73 245 142);
+  box-shadow: rgb(0 255 103) 1px 1px 10px;
+}
+.__1d63smy > div {
+  background-color: rgb(73, 245, 142);
+} */
+
+.__1q9n52d button {
+  color: rgb(15, 167, 78);
+}
+
+.search:focus {
+  background-color: #33393f !important;
+  color: rgb(184, 207, 196) !important;
+}
+
+.search{
+  border-bottom: 1px solid #17ff7f !important;
+  height:50px;
+  border-radius: 0 !important;
+  font-size: 30px !important;
+  color: rgb(58, 240, 149) !important;
+}
+
+input[type="search"].search::-webkit-input-placeholder {
+  font-size: 30px;
+}
+
+.search-track:hover {
+  background-color: rgb(36, 56, 44) !important;
+}
+
+.navi {
+  /* position: relative ; */
+  height: 100%;
+}
+
+/*.navo {
+  position: absolute;
+} */
+
+.affix {
+  position: fixed;
+}
