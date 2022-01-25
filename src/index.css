@@ -62,10 +62,6 @@ input[type="search"].search::-webkit-input-placeholder {
   font-size: 30px;
 }
 
-.search-track:hover {
-  background-color: rgb(36, 56, 44) !important;
-}
-
 .navi {
   /* position: relative ; */
   height: 100%;

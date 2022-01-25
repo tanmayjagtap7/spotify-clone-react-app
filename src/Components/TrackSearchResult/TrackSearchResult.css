@@ -1,0 +1,7 @@
+.search-track:hover {
+    background-color: rgb(36, 56, 44) !important;
+}
+
+.search-track:hover .play-icon{
+    color: #44ff61 !important;
+}
